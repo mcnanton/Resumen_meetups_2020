@@ -1,0 +1,40 @@
+name: Build RMarkdown website
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  render_document:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v1
+
+      - name: Install pandoc and pandoc citeproc
+        run: |
+          brew install pandoc
+          brew install pandoc-citeproc
+        
+      - name: Install packages
+        run: |
+          install.packages("remotes")
+          remotes::install_cran("rmarkdown")
+          remotes::install_cran("knitr")
+     
+      - name: Build site
+        run: Rscript -e 'rmarkdown::render_site(encoding = 'UTF-8')'
+        
+      - name: Commit results
+        run: |
+          git config --local user.email "paobcorrales@gmail.com"
+          git config --local user.name "Pao Corrales"
+          git commit README.md -m 'Re-build README.Rmd' || echo "No changes to commit"
+          git push origin || echo "No changes to commit"
+          
+  
