@@ -1,0 +1,16 @@
+---
+title: "Introducción al ABC para enseñar on-line"
+output: html_document
+---
+
+R-Ladies Mendoza y R-Ladies Resistencia-Corrientes abrieron sus puertas virtuales al taller Introducción a Machine Learning con Tidymodels durante LatinR 2020.
+
+**Sobre el taller**
+
+Este taller es introductorio y permitirá dar los primeros pasos en el universo tidymodels, el cual está formado por un conjunto de paquetes creados para aprendizaje automático siguiendo la filosofía tidyverse. El curso tendrá una breve introducción teórica y luego nos centraremos en entrenar y evaluar modelos de machine learning para resolver problemas de predicción y clasificación utilizando algunos de los paquetes como rsample, parsnip, yardstick, entre otros. Les asistente luego del curso podrán ejecutar modelos de predicción y clasificación y evaluar su performance. 
+
+* Más información: [https://github.com/tidymodels-latam-workshops/latinR2020](https://github.com/tidymodels-latam-workshops/latinR2020)
+* Video:
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1ATHGwDPXQs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

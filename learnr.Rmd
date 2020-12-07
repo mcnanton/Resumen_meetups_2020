@@ -1,0 +1,15 @@
+---
+title: "Generando tutoriales interactivos con el paquete learnr"
+output: html_document
+---
+
+R-Ladies Santa Rosa y R-Ladies General Pico abrieron sus puertas virtuales al taller Generando tutoriales interactivos con el paquete learnr durante LatinR 2020.
+
+**Sobre el taller**
+
+En este tutorial presentamos al paquete learnr para generar tutoriales interactivos. La idea de un documento rmarkdown que permita recorrer un contenido, contestar preguntas y ejecutar código para recibir feedback inmediato es muy poderosa. Especialmente si ese tutorial puede estar disponible como un paquete o como un sitio web o en RStudio. Si tenes clases remotas o asincrónicas, si tenes un paquete y queres llevar la ayuda a otro nivel, si tenes alumnos iniciales y no queres que sufran la instalación de las herramientas un tutorial interactivo te puede ayudar.
+
+* Presentación: [tiny.cc/slides_learnr](tiny.cc/slides_learnr)
+* Otros recursos: [https://github.com/yabellini/curso_learnr](https://github.com/yabellini/curso_learnr)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/n6IaftU1yjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
