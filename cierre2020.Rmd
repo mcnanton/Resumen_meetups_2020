@@ -1,0 +1,21 @@
+---
+title: "¡Cierre del año y Tidymodels"
+output: html_document
+---
+
+Aprovechamos este último encuentro para repasar lo que hicimos durante este año tan particular. ¡Queremos celebrar el habernos encontrado a distancia con muchísimas personas que forman parte de la comunidad R en Argentina, Latinoamérica y el mundo! 
+
+¡También hubo código de R! Ana Laura Diedrichs de R-Ladies Mendoza nos contó sobre Tidymodels
+
+Si te interesa machine learning o ya lo venís usando, {tidymodels} es un conjunto de paquetes que puede ayudarte en tu experimento de aprendizaje automático supervisado. Así sea clasificar imágenes o predecir el precio en el mercado inmobiliario, puedes usar este paquete desde R para implementar tus modelos de aprendizaje automático: desde dejar volar la cabeza con redes neuronales, hasta acampar en bosques aleatorios. {tidymodels} permite implementar un flujo de trabajo ordenado para el entrenamiento y evaluación de tus modelos.
+
+La charla se titula: “Un tour por tidymodels” y mostraremos algunos ejemplos en código. Está dirigida a quienes:
+
+* Conocen sobre ML (machine learning) y están buscando una librería para usar.
+* Han usado caret u otras librerías de ML en R.
+* Usan ML en otros lenguajes y quieren saber de las librerías en R.
+* Quieren entender el ecosistema de {tidymodels}.
+* O son personas curiosas y quieren tener un vistazo de {tidymodels} y de qué trata.
+
+
+Video: proximamente

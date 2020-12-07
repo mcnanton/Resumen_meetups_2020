@@ -1,0 +1,14 @@
+---
+title: "Leyendo datos ordenados con Tidyverse"
+output: html_document
+---
+
+En este sexto episodio Priscilla Minotti nos muestra que son los datos ordenados y como leer datos datos tabulares en R con Tidyverse y como no podía ser de otra manera algunos trucos para graficar datos geoespaciales.
+
+En estos links encontraras los materiales del taller:
+* Para trabajar localmente: [https://bit.ly/37UhUwz](https://bit.ly/37UhUwz)
+* Para trabajar desde RStudio Cloud: [https://rstudio.cloud/project/1408081](https://rstudio.cloud/project/1408081)
+
+Y revivir el encuentro acá:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/v39DeY0IDI0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

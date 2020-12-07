@@ -1,0 +1,12 @@
+---
+title: "Primeros pasos con Git"
+output: html_document
+---
+
+En esta tercera edición de Charlar con R los capítulos de Buenos Aires, Santa Rosa y General Pico se unieron para dar los primeros pasos con Git y Rstudio. Las oradoras fueron Yanina Bellini Saibene de Santa Rosa y Marysol Gatti de General Pico.
+
+Podés revivir el encuentro acá:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/33pZ9dtc-Co" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Y si querés revisar los materiales, por acá: [https://yabellini.netlify.app/es/post/githubconr/](https://yabellini.netlify.app/es/post/githubconr/)

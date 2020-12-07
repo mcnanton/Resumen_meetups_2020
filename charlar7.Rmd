@@ -1,0 +1,12 @@
+---
+title: "¡Taller de dplyr!"
+output: html_document
+---
+
+En esta 7ma edisión Jesi Formoso nos introduce al mundo de dplyr y los verbos para manipular datos ordenados. 
+
+Podés seguir el taller usando RStudioCloud. Para eso, ingresá a este link [https://rstudio.cloud/project/1496496](https://rstudio.cloud/project/1496496) y luego de iniciar sesión/crear tu cuenta se va a abrir el proyecto con los archivos necesarios y los paquetes ya instalados!
+
+Y revivir el encuentro acá:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FefLBPTTHzw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
