@@ -1,0 +1,7 @@
+---
+title: "Extracción de datos de imágenes satelitales MODIS y Análisis Científico Reproducible"
+output: html_document
+---
+
+R-Ladies Córdoba y R-Ladies Usuhaia se unieron para tomar la merienda online y charlar sobre Extracción de datos de imágenes satelitales MODIS a cargo de Sami Dodino y Análisis Científico Reproducible a cargo de Juli Benitez
+

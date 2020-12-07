@@ -1,0 +1,12 @@
+---
+title: "Gráficos on demand con ggplot2"
+output: html_document
+---
+
+¡Nueva reunión de R-Ladies Santa Fe! Esta vez la reunión será virtual.
+
+:: INVITADA ::
+> Mariel Lovatto. Actualmente cursa el doctorado en estadística en UNR y trabaja como ayudante de cátedra en Probabilidad y Estadística en Facultad de Ingeniería Química.
+
+:: CHARLA::
+Vamos a analizar cómo se realizan gráficos con el paquete de R ggplot2. Podés enviarnos tus dudas por mail o a nuestras redes sociales y las tratamos el día del evento!!!

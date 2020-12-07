@@ -1,0 +1,6 @@
+---
+title: "¡Manos a los datos! Encarando los datos crudos desde R"
+output: html_document
+---
+
+En este encuentr Lina Moreno Azócar nos contó cómo trabajó con datos propios desde su planilla original (la planilla de toma de datos de campo), hasta lograr una tabla ordenada, que permite efectuar análisis a partir de ella.

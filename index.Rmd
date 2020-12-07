@@ -7,26 +7,107 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-En esta web encontrarás materiales y links asociados a los meetups que organizaron los capítuos de RLadies en Argentina (¡qué cada vez son más!). 
+En esta web encontrarás materiales y links asociados a los meetups que organizaron los capítuos de R-Ladies en Argentina (¡qué cada vez son más!). 
 
 ### Enero
 
 * [Watchparty de Rstudio::conf 2020](watchparty.html)
-  - Organizado por RLadies Buenos Aires y R en Baires
+  - Organizado por R-Ladies Buenos Aires y R en Baires
 
 ### Febrero
+
+* Cerrado por vacaciones :)
 
 ### Marzo
 
 * [Charlar con R - Toma 1: Proyectos de RStudio](charlar1.html)
-  - Organizado por RLadies Buenos Aires
+  - Organizado por R-Ladies Buenos Aires
   - Oradora: Pao Corrales
 
 ### Abril
 
 * [Charlar con R - Toma 2: Trucos de RStudio](charlar2.html)
-  - Organizado por RLadies Buenos Aires
+  - Organizado por R-Ladies Buenos Aires
   - Oradora: Monica Alonso
 * [Charlar con R - Toma 3: RMarkdown](charlar3.html)
-  - Organizado por RLadies Buenos Aires
+  - Organizado por R-Ladies Buenos Aires
   - Oradora: Jimena Saucedo
+* [Imágenes de MODIS y Análisis Científico Reproducible](cordoba-usuhaia.html)
+  - Organizado por R-Ladies Córdoba y R-Ladies Usuahia
+  - Oradora: Sami Dodino y Juli Benitez
+  
+### Mayo
+
+* [Charlar con R - Toma 4: Git y RStudio](charlar4.html)
+  - Organizado por R-Ladies Buenos Aires, R-Ladies Santa Rosa y R-Ladies General Pico
+  - Oradoras: Yanina Bellini Saibene y Marysol Gatti
+  
+### Junio
+
+* [Charlar con R - Toma 5: Visualizando datos](charlar5.html)
+  - Organizado por R-Ladies Buenos Aires
+  - Oradora: Maria Naton
+* [Charlar con R - Toma 6: Leyendo datos](charlar6.html)
+  - Organizado por R-Ladies Buenos Aires
+  - Oradora: Priscila Minotti
+* [Gráficos on demand con ggplot2](graficos-ggplot2.html)
+  - Organizado por R-Ladies Santa Fe
+  - Oradora: Mariel Lovatto
+
+### Julio
+
+* [Cómo hacer una reunión virtual inolvidable (sin morir en el intento)](metameetup.html)
+  - Hosteado por muchos capítulos de Latinoamérica!
+  - Oradoras: Yanina Bellini Saibene y Paola Corrales
+* [useR! 2020 online tutorial: Predictive modeling with text using tidy data principles](user2020.html)
+  - Organizado por R-Ladies Buenos Aires, R-Ladies Santa Rosa, R-Ladies Ushuaia,  R-Ladies Resistencia-Corrientes, R-Ladies Mendoza, R-Ladies Santa Fe, R-Ladies General Pico, R-Ladies Córdoba
+  - Oradoras: Emil Hvitfeldt y Julia Silge
+* [Encarando los datos crudos desde R](datos-crudos.html)
+  - Organizado por R-Ladies Bariloche
+  - Oradora: Lina Moreno Azócar
+  
+### Agosto
+
+* [Charlar con R - Toma 7: Dplyr](charlar7.html)
+  - Organizado por R-Ladies Buenos Aires
+  - Oradora: Jesica Formoso
+  
+### Septiembre
+
+
+* [Charlar con R - Toma 8: Reproducibilidad en R](charlar8.html)
+  - Organizado por R-Ladies Buenos Aires
+  - Oradora: Florencia D'Andrea
+  
+* [R para Ciencia de Datos](congreso-bioinformatica.html)
+  - En el congreso Mujeres en bioinformática y Ciencia de Datos LA
+  - Oradora: María Naton y Jimena Saucedo
+
+### Octubre
+
+* [Introducción a Machine Learning con Tidymodels](tidymodels.html)
+  - Organizado por LatinR, R-Ladies Mendoza y R-Ladies Resistencia-Corrientes
+  - Oradora: Roxana Villafañe, Patricia Loto y Ana Laura Diedrichs. 
+
+* [Introducción al ABC para enseñar on-line](introABC.html)
+  - Organizado por LatinR, R-Ladies Santa Rosa, R-Ladies General Pico y MetaDocencia
+  - Oradora: Yanina Bellini Saibene, Mariela Rajngewerc y Celeste Molina Favero.
+  
+* [Generando tutoriales interactivos con el paquete learnr](learnr.html)
+  - Organizado por LatinR, R-Ladies Santa Rosa y R-Ladies General Pico
+  - Oradora: Yanina Bellini Saibene y Paola Corrales.
+  
+* [Análisis estadístico de experimentos: diseños factoriales](disenio-factorial.html)
+  - Organizado por R-Ladies Bariloche
+  - Oradora: Patricia García
+
+### Noviembre
+
+Nos tomamos un descanso después de semejante octubre :)
+
+### Diciembre
+
+* [¡Cierre del año y Tidymodels!](cierre2020.html)
+  - Organizado por todos los capítulos de Argentina!
+  - Oradora: Ana Laura Diedrichs
+  

@@ -1,0 +1,11 @@
+---
+title: "Análisis estadístico de experimentos: diseños factoriales"
+output: html_document
+---
+
+Un nuevo meetup en formato virtual. Esta vez nos enfocamos en el análisis clásico de experimentos.
+
+Pato se copó y nos va a contar sobre test para comparar grupos:
+
+* test t-student, análisis de la varianza de una via (One-way ANOVA), su contrapartida no-parametrica el test de Kruskal-Wallis y el Análisis de la varianza de dos vías (Two-way anova).
+* Como ajustar estos modelos y gráficar sus resultados en R.
