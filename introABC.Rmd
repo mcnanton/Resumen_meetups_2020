@@ -3,7 +3,7 @@ title: "Introducción al ABC para enseñar on-line"
 output: html_document
 ---
 
-R-Ladies Santa Rosa y R-Ladies General Pico abrieron sus puertas virtuales al taller Introducción al ABC para enseñar on-line de MetaDocencia durante LatinR 2020.
+R-Ladies Santa Rosa y R-Ladies General Pico abrieron sus puertas virtuales al taller Introducción al ABC para enseñar on-line de [MetaDocencia](https://www.metadocencia.org/) durante LatinR 2020.
 
 **Sobre el taller**
 
