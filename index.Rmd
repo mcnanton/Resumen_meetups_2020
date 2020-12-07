@@ -1,0 +1,32 @@
+---
+title: "¡Hola!"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+En esta web encontrarás materiales y links asociados a los meetups que organizaron los capítuos de RLadies en Argentina (¡qué cada vez son más!). 
+
+### Enero
+
+* [Watchparty de Rstudio::conf 2020](watchparty.html)
+  - Organizado por RLadies Buenos Aires y R en Baires
+
+### Febrero
+
+### Marzo
+
+* [Charlar con R - Toma 1: Proyectos de RStudio](charlar1.html)
+  - Organizado por RLadies Buenos Aires
+  - Oradora: Pao Corrales
+
+### Abril
+
+* [Charlar con R - Toma 2: Trucos de RStudio](charlar2.html)
+  - Organizado por RLadies Buenos Aires
+  - Oradora: Monica Alonso
+* [Charlar con R - Toma 3: RMarkdown](charlar3.html)
+  - Organizado por RLadies Buenos Aires
+  - Oradora: Jimena Saucedo

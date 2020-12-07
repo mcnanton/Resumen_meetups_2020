@@ -1,0 +1,15 @@
+navbar:
+  title: "RLadies en Argentina\ndurante 2020"
+  right:
+    - icon: "img/R-Ladies_Argentina_hex.png"
+      href: https://github.com/RLadiesEnArgentina
+output_dir: "docs"
+output:
+  html_document:
+    includes:
+      in_header: header.html
+    toc: true
+    toc_float: true
+    theme: cosmo
+    css: style.css
+ 
