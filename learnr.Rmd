@@ -3,7 +3,7 @@ title: "Generando tutoriales interactivos con el paquete learnr"
 output: html_document
 ---
 
-R-Ladies Santa Rosa y R-Ladies General Pico abrieron sus puertas virtuales al taller Generando tutoriales interactivos con el paquete learnr durante LatinR 2020.
+R-Ladies Santa Rosa y R-Ladies General Pico abrieron sus puertas virtuales al taller Generando tutoriales interactivos con el paquete learnr de [MetaDocencia](https://www.metadocencia.org/) durante LatinR 2020.
 
 **Sobre el taller**
 
