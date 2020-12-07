@@ -1,0 +1,11 @@
+---
+title: "Trabajando con proyectos en RStudio"
+output: html_document
+---
+
+En esta segunda edición de Charlar con R, Moni Alonso nos contó sobre RStudio, algunos trucos y consejos para trabajar en este IDE. 
+
+Podés revivir el encuentro acá:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BN1j2TReP2Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
