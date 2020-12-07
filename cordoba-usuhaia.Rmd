@@ -5,3 +5,12 @@ output: html_document
 
 R-Ladies Córdoba y R-Ladies Usuhaia se unieron para tomar la merienda online y charlar sobre Extracción de datos de imágenes satelitales MODIS a cargo de Sami Dodino y Análisis Científico Reproducible a cargo de Juli Benitez
 
+**Imágenes satelitales**
+              
+       * [Script](https://github.com/rladies/meetup-presentations_cordoba/blob/master/2020-04-25%20meetup%20virtual%20en%20conjunto%20con%20RLadies%20Ush/Rladies-imagenes%20satelitales.R)
+       * [Set de datos](https://github.com/rladies/meetup-presentations_cordoba/blob/master/2020-04-25%20meetup%20virtual%20en%20conjunto%20con%20RLadies%20Ush/ejemplo.csv)
+       
+**RMarkdown**
+       
+       * [Slides](https://github.com/rladies/meetup-presentations_cordoba/blob/master/2020-04-25%20meetup%20virtual%20en%20conjunto%20con%20RLadies%20Ush/Taller%20de%20RMarkdown.pdf)
+       * [Script](https://github.com/rladies/meetup-presentations_cordoba/blob/master/2020-04-25%20meetup%20virtual%20en%20conjunto%20con%20RLadies%20Ush/ejemplo%20rmd%20diamantes.Rmd)
