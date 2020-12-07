@@ -21,6 +21,7 @@ jobs:
           install.packages("remotes")
           remotes::install_cran("rmarkdown")
           remotes::install_cran("knitr")
+        shell: Rscript {0}
      
       - name: Build site
         run: Rscript -e 'rmarkdown::render_site(encoding = 'UTF-8')'
