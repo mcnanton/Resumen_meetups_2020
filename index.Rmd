@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-En esta web encontrarás materiales y links asociados a los meetups que organizaron los capítulos de R-Ladies en Argentina (¡qué cada vez son más!). 
+En esta web encontrarás materiales y links asociados a los meetups que organizaron los capítulos de R-Ladies en Argentina (¡qué cada vez son más!) durante 2020. 
 
 ### Enero
 
