@@ -16,14 +16,15 @@ En esta web encontrarás materiales y links asociados a los meetups que organiza
 
 ### Febrero
 
-* Cerrado por vacaciones :)
+* [Interactive Webapps with Shiny](shiny.html)
+  - Organizado por R-Ladies Resistencia - Corrientes + R en el NEA
+  - Oradora: Florencia D’Andrea
 
 ### Marzo
 
 * [Charlar con R - Toma 1: Proyectos de RStudio](charlar1.html)
   - Organizado por R-Ladies Buenos Aires
   - Oradora: Pao Corrales
-
 ### Abril
 
 * [Charlar con R - Toma 2: Trucos de RStudio](charlar2.html)

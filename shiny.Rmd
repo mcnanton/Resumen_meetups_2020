@@ -1,0 +1,8 @@
+---
+title: "Interactive Webapps with Shiny"
+output: html_document
+---
+
+Flor estuvo de visita por el norte y presnetó Interactive Webapps with Shiny en un meetup en conjunto entre R-Ladies Resistencia - Corrientes y R en el NEA. 
+
+Podés encontrar las slides [acá](https://flor14.github.io/rladies_shiny_meetup_2020/rladies_shiny_2020) y los materiales por [acá](https://github.com/flor14/rladies_shiny_meetup_2020).
