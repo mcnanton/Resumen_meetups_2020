@@ -1,0 +1,10 @@
+---
+title: "Desmitificando los datos: Visualización desde la Ciencia de Datos con Perspectiva de Género"
+output: html_document
+---
+
+Taller dictado en conjunto con la comunidad MET y el Observatorio de Datos con Perspectiva de Género para el ciclo ReinventarTEC. 
+
+Repo con materiales: [https://github.com/PatriLoto/visualizacion_con_perspectiva_de_genero](https://github.com/PatriLoto/visualizacion_con_perspectiva_de_genero)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ipPdS1v46lw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

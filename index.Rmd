@@ -47,6 +47,9 @@ En esta web encontrarás materiales y links asociados a los meetups que organiza
 * [Charlar con R - Toma 5: Visualizando datos](charlar5.html)
   - Organizado por R-Ladies Buenos Aires
   - Oradora: Maria Naton
+* [Datos con Perspectiva](datos-genero.html)
+  - Organizado por R-Ladies Resistencia-Corrientes y Observatorio de Datos con Perspectiva de Género
+  - Oradora: Patricia Loto
 * [Charlar con R - Toma 6: Leyendo datos](charlar6.html)
   - Organizado por R-Ladies Buenos Aires
   - Oradora: Priscila Minotti
@@ -82,6 +85,10 @@ En esta web encontrarás materiales y links asociados a los meetups que organiza
 * [R para Ciencia de Datos](congreso-bioinformatica.html)
   - En el congreso Mujeres en bioinformática y Ciencia de Datos LA
   - Oradora: María Naton y Jimena Saucedo
+  
+* [Intro a Machine Learning con R y Tidymodels](ml-UTN.html)
+  - R-Ladies Resistencia-Corrientesen las JUTI en UTN-FRRE
+  - Oradora: Patricia Loto y Roxana Noelia Villafañe.
 
 ### Octubre
 

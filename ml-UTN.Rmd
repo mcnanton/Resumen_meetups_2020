@@ -1,0 +1,10 @@
+---
+title: "Intro a Machine Learning con R y Tidymodels"
+output: html_document
+---
+
+Workshop en las JUTI en UTN-FRRE: Intro a Machine Learning con R y Tidymodels
+
+Durante los últimos años, el interés y la aplicación de machine learning ha experimentado tal expansión, que se ha convertido en una disciplina aplicada en prácticamente todos los ámbitos de investigación académica e industrial. El creciente número de personas dedicadas a esta disciplina ha dado como resultado todo un repertorio de herramientas con las que acceder a métodos predictivos potentes. La modelización de datos en estos últimos años ha despertado una gran atención debido al acceso a datos no antes visto. Esto trae aparejado el interés creciente de aprender herramientas útiles que permitan realizar análisis de manera simple, eficaz y reproducible. Tidymodels es un conjunto de paquetes dedicado al aprendizaje automático, que nos proporciona una gramática para modelado de datos con la filosofía del tidyverse. En este taller brindaremos una introducción a tidymodels y su aplicación a problemas de regresión y clasificación.
+
+Repositorio con todos los materiales: [https://github.com/PatriLoto/Intro_a_ML_con_tidymodels_UTN](https://github.com/PatriLoto/Intro_a_ML_con_tidymodels_UTN)
