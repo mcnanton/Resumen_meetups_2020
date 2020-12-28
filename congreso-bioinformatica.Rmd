@@ -6,3 +6,8 @@ output: html_document
 María Naton y Jime Saucedo dieron un taller introductorio en el Primer Congreso de Mujeres en Bioinformático y Ciencia de Datos de Latinoamérica. 
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡4 horas a puro R! Este workshop no hubiera sido posible sin ustedes <a href="https://twitter.com/bynans1?ref_src=twsrc%5Etfw">@bynans1</a> <a href="https://twitter.com/Jime_Sauce?ref_src=twsrc%5Etfw">@Jime_Sauce</a> <a href="https://twitter.com/noelidalessio?ref_src=twsrc%5Etfw">@noelidalessio</a> <a href="https://twitter.com/PaobCorrales?ref_src=twsrc%5Etfw">@PaobCorrales</a> <a href="https://twitter.com/VeronicaRojo_?ref_src=twsrc%5Etfw">@VeronicaRojo_</a> ⚡️ <br>Gracias por representar al equipo de <a href="https://twitter.com/hashtag/RLadiesBA?src=hash&amp;ref_src=twsrc%5Etfw">#RLadiesBA</a> en <a href="https://twitter.com/hashtag/1WBDS_LA?src=hash&amp;ref_src=twsrc%5Etfw">#1WBDS_LA</a> y a <a href="https://twitter.com/BioinfoLa?ref_src=twsrc%5Etfw">@BioinfoLa</a> por la invitación💜 <a href="https://t.co/Z5OWfTOTIZ">pic.twitter.com/Z5OWfTOTIZ</a></p>&mdash; R-Ladies BuenosAires (@RLadiesBA) <a href="https://twitter.com/RLadiesBA/status/1309283133523734532?ref_src=twsrc%5Etfw">September 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+Podés ver el video acá:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ycudMihLues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
