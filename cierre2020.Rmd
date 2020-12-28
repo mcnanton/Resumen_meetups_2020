@@ -17,5 +17,6 @@ La charla se titula: “Un tour por tidymodels” y mostraremos algunos ejemplos
 * Quieren entender el ecosistema de {tidymodels}.
 * O son personas curiosas y quieren tener un vistazo de {tidymodels} y de qué trata.
 
+Si te perdiste este encuentro podés revivirlo acá:
 
-Video: proximamente
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o38PVdS3k_Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
