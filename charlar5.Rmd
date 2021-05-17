@@ -3,9 +3,9 @@ title: "Visualizaciones y datos textuales"
 output: html_document
 ---
 
-En este 5to meetup virtual y con la escusa de #30díasdegráficos organizado por la comunidad hispanohablante de R, María Naton nos introduce al mundo de los datos textuales y como graficarlos con ggplot y wordcloud2.
+En este 5to meetup virtual y con la escusa de #30díasdegráficos organizado por la comunidad hispanohablante de R, María Nanton nos introduce al mundo de los datos textuales y como graficarlos con ggplot y wordcloud2.
 
-Podés descargar los materiales para seguir los ejercicios [acá](https://drive.google.com/drive/folders/127xE9sKUJ9a47DyQ7mY2H2mkRdqeKJXX).
+Podés descargar los materiales para seguir los ejercicios [acá](https://github.com/mcnanton/RladiesBA-TallerDatosTextuales).
 
 Y revivir el encuentro acá:
 
