@@ -48,7 +48,7 @@ En esta web encontrarás materiales y links asociados a los meetups que organiza
 
 * [Charlar con R - Toma 5: Visualizando datos](charlar5.html)
   - Organizado por R-Ladies Buenos Aires
-  - Oradora: Maria Naton
+  - Oradora: Maria Nanton
 * [Visualización desde la ciencia de datos con perspectiva de género](datos-genero.html)
   - Organizado por R-Ladies Resistencia-Corrientes y Observatorio de Datos con Perspectiva de Género
   - Oradoras: Patricia Loto, Roxana Villafañe, Martina Cantaro y Sabina Bercovich
